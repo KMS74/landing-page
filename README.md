@@ -5,3 +5,6 @@ This project is for Udacity's Professional Web Development Track. This project a
 ## Description
 
 This is a basic landing page that uses Javascript to create a NavBar dynamically and to highlight sections when scrolled and the ability to scroll to top. The project uses HTML, CSS, and Javascript.
+
+## Live preview
+https://kms74.github.io/landing-page/
